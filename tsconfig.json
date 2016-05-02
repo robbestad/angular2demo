@@ -4,10 +4,10 @@
     "module": "system",
     "moduleResolution": "node",
     "sourceMap": true,
-    "emitDecoratorMetaData": true,
+    "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "removeComments": false,
-    "onImplicityAny": false
+    "noImplicitAny": false
   },
   "exclude": [
     "node_modules"
